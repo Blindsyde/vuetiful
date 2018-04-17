@@ -5,18 +5,9 @@ Vuetiful is a component framework written on top of the Vue reactive library. It
 **Update:** *Due to time limitations this project has been discontinued by the original author. Please feel free to use or distribute any of the code in this repo as per the license below.*
 
 ## Getting started
-This project is still very much in the early days of development so it is not currently available on npm (but will be soon). 
+This project is still very much in the early days of development so it is not currently available on nuget (but will be soon). 
 
 To use the components simply download the `components.bundle.js` and `app.style.css` files from the `/dist` directory and link to them in your html.
-
-Alternatively, if you would like to see a demo of the current set of components and styles you can clone this repo and build it to see a demo application. After cloning the repo run:
-
-```bash
-npm install
-npm start
-```
-
-A browser window will automatically open and load the demo app.
 
 
 ## License
